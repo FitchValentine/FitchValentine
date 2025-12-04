@@ -2,7 +2,7 @@
 
 Senior backend engineer!
 Golang/Java/Python enthusiast
-Working hard to keep all microservices alive at 3M+ RPS!
+Working hard to keep all microservices alive at 3K+ RPS!
 
 
 # 💻 Tech Stack:
