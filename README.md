@@ -1,7 +1,7 @@
 ## Hi, i'm Sergey! 👋
 
 Senior backend engineer!
-Golang/Java/Python enthusiast
+Golang/Ruby/Java/Python enthusiast
 Working hard to keep all microservices alive at 3K+ RPS!
 
 
